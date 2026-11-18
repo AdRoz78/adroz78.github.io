@@ -1,0 +1,27 @@
+{
+    "version": "https://jsonfeed.org/version/1",
+    "title": "AdRoz78&#x27;s Site",
+    "description": "",
+    "home_page_url": "https://adroz78.com",
+    "feed_url": "https://adroz78.com/feed.json",
+    "user_comment": "",
+    "author": {
+        "name": "AdRoz78"
+    },
+    "items": [
+        {
+            "id": "https://adroz78.com/posts/test-post/",
+            "url": "https://adroz78.com/posts/test-post/",
+            "title": "Test post ",
+            "summary": "You can make posts here too... maybe I'll make a blog.",
+            "content_html": "\n  <p>\n    You can make posts here too... maybe I'll make a blog.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://adroz78.com/media/posts/2/Poland.jpeg\" height=\"798\" width=\"512\" alt=\"\"  sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://adroz78.com/media/posts/2/responsive/Poland-xs.jpeg 300w ,https://adroz78.com/media/posts/2/responsive/Poland-sm.jpeg 480w ,https://adroz78.com/media/posts/2/responsive/Poland-md.jpeg 768w ,https://adroz78.com/media/posts/2/responsive/Poland-lg.jpeg 1024w\">\n      \n    </figure>",
+            "author": {
+                "name": "AdRoz78"
+            },
+            "tags": [
+            ],
+            "date_published": "2026-11-18T14:49:41+01:00",
+            "date_modified": "2026-11-18T14:49:41+01:00"
+        }
+    ]
+}

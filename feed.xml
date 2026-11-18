@@ -1,0 +1,40 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom" xmlns:media="http://search.yahoo.com/mrss/">
+    <title>AdRoz78&#x27;s Site</title>
+    <link href="https://adroz78.com/feed.xml" rel="self" />
+    <link href="https://adroz78.com" />
+    <updated>2026-11-18T14:49:41+01:00</updated>
+    <author>
+        <name>AdRoz78</name>
+    </author>
+    <id>https://adroz78.com</id>
+
+    <entry>
+        <title>Test post </title>
+        <author>
+            <name>AdRoz78</name>
+        </author>
+        <link href="https://adroz78.com/posts/test-post/"/>
+        <id>https://adroz78.com/posts/test-post/</id>
+
+        <updated>2026-11-18T14:49:41+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    You can make posts here too... maybe I'll make a blog.
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                
+  <p>
+    You can make posts here too... maybe I'll make a blog.
+  </p>
+
+    <figure class="post__image post__image--center">
+      <img loading="lazy" src="https://adroz78.com/media/posts/2/Poland.jpeg" height="798" width="512" alt=""  sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://adroz78.com/media/posts/2/responsive/Poland-xs.jpeg 300w ,https://adroz78.com/media/posts/2/responsive/Poland-sm.jpeg 480w ,https://adroz78.com/media/posts/2/responsive/Poland-md.jpeg 768w ,https://adroz78.com/media/posts/2/responsive/Poland-lg.jpeg 1024w">
+      
+    </figure>
+            ]]>
+        </content>
+    </entry>
+</feed>
