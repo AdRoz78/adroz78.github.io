@@ -10,6 +10,21 @@
     },
     "items": [
         {
+            "id": "https://adroz78.com/posts/art-test/",
+            "url": "https://adroz78.com/posts/art-test/",
+            "title": "Art Test",
+            "summary": "Caption Test",
+            "content_html": "<figure class=\"post__image\"><img loading=\"lazy\" src=\"https://adroz78.com/media/posts/7/malfunctioning-new.png\" alt=\"\" width=\"805\" height=\"345\" sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://adroz78.com/media/posts/7/responsive/malfunctioning-new-xs.png 300w ,https://adroz78.com/media/posts/7/responsive/malfunctioning-new-sm.png 480w ,https://adroz78.com/media/posts/7/responsive/malfunctioning-new-md.png 768w ,https://adroz78.com/media/posts/7/responsive/malfunctioning-new-lg.png 1024w\">\n<figcaption>Caption Test</figcaption>\n</figure>",
+            "author": {
+                "name": "AdRoz78"
+            },
+            "tags": [
+                   "art"
+            ],
+            "date_published": "2026-11-19T12:30:48+01:00",
+            "date_modified": "2026-11-19T12:30:54+01:00"
+        },
+        {
             "id": "https://adroz78.com/posts/test-post/",
             "url": "https://adroz78.com/posts/test-post/",
             "title": "Test post ",

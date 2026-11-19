@@ -3,12 +3,35 @@
     <title>AdRoz78&#x27;s Site</title>
     <link href="https://adroz78.com/feed.xml" rel="self" />
     <link href="https://adroz78.com" />
-    <updated>2026-11-18T14:49:41+01:00</updated>
+    <updated>2026-11-19T12:30:54+01:00</updated>
     <author>
         <name>AdRoz78</name>
     </author>
     <id>https://adroz78.com</id>
 
+    <entry>
+        <title>Art Test</title>
+        <author>
+            <name>AdRoz78</name>
+        </author>
+        <link href="https://adroz78.com/posts/art-test/"/>
+        <id>https://adroz78.com/posts/art-test/</id>
+            <category term="art"/>
+
+        <updated>2026-11-19T12:30:48+01:00</updated>
+            <summary type="html">
+                <![CDATA[
+                    Caption Test
+                ]]>
+            </summary>
+        <content type="html">
+            <![CDATA[
+                <figure class="post__image"><img loading="lazy" src="https://adroz78.com/media/posts/7/malfunctioning-new.png" alt="" width="805" height="345" sizes="(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)" srcset="https://adroz78.com/media/posts/7/responsive/malfunctioning-new-xs.png 300w ,https://adroz78.com/media/posts/7/responsive/malfunctioning-new-sm.png 480w ,https://adroz78.com/media/posts/7/responsive/malfunctioning-new-md.png 768w ,https://adroz78.com/media/posts/7/responsive/malfunctioning-new-lg.png 1024w">
+<figcaption>Caption Test</figcaption>
+</figure>
+            ]]>
+        </content>
+    </entry>
     <entry>
         <title>Test post </title>
         <author>
