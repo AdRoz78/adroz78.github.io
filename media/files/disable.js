@@ -36,7 +36,7 @@
         var services = {
             trump: () => {
                 let title = "Donald J. Trump (@realDonaldTrump) / X";
-                let favicon = "/adroz78/media/files/killjs/x.png";
+                let favicon = "/media/files/killjs/x.png";
                 return {
                     title,
                     favicon,
@@ -44,7 +44,7 @@
             },
             norton: () => {
                 let title = "PAYMENT & PURCHASE";
-                let favicon = "/adroz78/media/files/killjs/nr.png";
+                let favicon = "/media/files/killjs/nr.png";
                 return {
                     title,
                     favicon,
@@ -52,7 +52,7 @@
             },
             virus: () => {
                 let title = "[WARNING] 5 Viruses found on your Computer!";
-                let favicon = "/adroz78/media/files/killjs/warn.png";
+                let favicon = "/media/files/killjs/warn.png";
                 return {
                     title,
                     favicon,
@@ -60,7 +60,7 @@
             },
             finance: () => {
                 let title = "Yahoo Finance - Stock Market Live, Quotes, Business & Finance News";
-                let favicon = "/adroz78/media/files/killjs/yahoo.png";
+                let favicon = "/media/files/killjs/yahoo.png";
                 return {
                     title,
                     favicon,
@@ -68,7 +68,7 @@
             },
             math1: () => {
                 let title = "what is 5 times 3 - Google Search";
-                let favicon = "/adroz78/media/files/killjs/go.ico";
+                let favicon = "/media/files/killjs/go.ico";
                 return {
                     title,
                     favicon,
@@ -76,7 +76,7 @@
             },
             lesspriv: () => {
                 let title = "Decreasing security and privacy - ChatGPT";
-                let favicon = "/adroz78/media/files/killjs/cgpt.png";
+                let favicon = "/media/files/killjs/cgpt.png";
                 return {
                     title,
                     favicon,
@@ -84,7 +84,7 @@
             },
             warthunder: () => {
                 let title = "League of Legends Homepage";
-                let favicon = "/adroz78/media/files/killjs/lol.png";
+                let favicon = "/media/files/killjs/lol.png";
                 return {
                     title,
                     favicon,
@@ -92,7 +92,7 @@
             },
             gar: () => {
                 let title = "green apple redo - YouTube";
-                let favicon = "/adroz78/media/files/killjs/yt.ico";
+                let favicon = "/media/files/killjs/yt.ico";
                 return {
                     title,
                     favicon,
@@ -100,7 +100,7 @@
             },
             fishbell: () => {
                 let title = "Fish Doorbell – See You Next Season! | The Fish Doorbell";
-                let favicon = "/adroz78/media/files/killjs/fish.png";
+                let favicon = "/media/files/killjs/fish.png";
                 return {
                     title,
                     favicon,
@@ -108,7 +108,7 @@
             },
             evil: () => {
                 let title = "Home - RozAd87";
-                let favicon = "/adroz78/media/files/killjs/evil.png";
+                let favicon = "/media/files/killjs/evil.png";
                 return {
                     title,
                     favicon,
