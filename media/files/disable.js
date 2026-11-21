@@ -90,8 +90,24 @@
                     favicon,
                 };
             },
+            tower: () => {
+                let title = "Third Tower Theory Evidence : r/conspiracy";
+                let favicon = "/media/files/killjs/rd.png";
+                return {
+                    title,
+                    favicon,
+                };
+            },
             gar: () => {
                 let title = "green apple redo - YouTube";
+                let favicon = "/media/files/killjs/yt.ico";
+                return {
+                    title,
+                    favicon,
+                };
+            },
+            gar: () => {
+                let title = "Portal Radio Loop 10 Hours - YouTube";
                 let favicon = "/media/files/killjs/yt.ico";
                 return {
                     title,
@@ -101,6 +117,14 @@
             fishbell: () => {
                 let title = "Fish Doorbell – See You Next Season! | The Fish Doorbell";
                 let favicon = "/media/files/killjs/fish.png";
+                return {
+                    title,
+                    favicon,
+                };
+            },
+            jw: () => {
+                let title = "Jehovah’s Witnesses—Official Website: jw.org | English";
+                let favicon = "/media/files/killjs/jw.ico";
                 return {
                     title,
                     favicon,

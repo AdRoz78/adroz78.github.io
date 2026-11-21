@@ -10,20 +10,6 @@
     },
     "items": [
         {
-            "id": "https://adroz78.com/posts/test-post/",
-            "url": "https://adroz78.com/posts/test-post/",
-            "title": "Test post ",
-            "summary": "You can make posts here too... maybe I'll make a blog.",
-            "content_html": "\n  <p>\n    You can make posts here too... maybe I'll make a blog.\n  </p>\n\n    <figure class=\"post__image post__image--center\">\n      <img loading=\"lazy\" src=\"https://adroz78.com/media/posts/2/Poland.jpeg\" height=\"798\" width=\"512\" alt=\"\"  sizes=\"(min-width: 920px) 703px, (min-width: 700px) calc(82vw - 35px), calc(100vw - 81px)\" srcset=\"https://adroz78.com/media/posts/2/responsive/Poland-xs.jpeg 300w ,https://adroz78.com/media/posts/2/responsive/Poland-sm.jpeg 480w ,https://adroz78.com/media/posts/2/responsive/Poland-md.jpeg 768w ,https://adroz78.com/media/posts/2/responsive/Poland-lg.jpeg 1024w\">\n      \n    </figure>",
-            "author": {
-                "name": "AdRoz78"
-            },
-            "tags": [
-            ],
-            "date_published": "2026-11-18T14:49:41+01:00",
-            "date_modified": "2026-11-18T14:49:41+01:00"
-        },
-        {
             "id": "https://adroz78.com/posts/bosko/",
             "url": "https://adroz78.com/posts/bosko/",
             "title": "Bosko",
@@ -42,8 +28,8 @@
             "id": "https://adroz78.com/posts/malfunctioning-2/",
             "url": "https://adroz78.com/posts/malfunctioning-2/",
             "title": "Malfunctioning..?",
-            "summary": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"1\" data-is-empty=\"false\"><span style=\"font-size: inherit;\">By clicking on this post, you affirm you are over 18 years old.</span>\n<figure></figure>\n</div></div>\n",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"1\" data-is-empty=\"false\"><span style=\"font-size: inherit;\">By clicking on this post, you affirm you are over 18 years old.</span>\n<figure></figure>\n</div></div>\n<hr>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"1\" data-is-empty=\"false\">\n<figure class=\"gallery__item\"><a href=\"https://adroz78.com/media/posts/11/gallery/Wu-Ti-83_20261031223236.png\" data-size=\"2048x1536\"><img loading=\"lazy\" src=\"https://adroz78.com/media/posts/11/gallery/Wu-Ti-83_20261031223236-thumbnail.png\" alt=\"\" width=\"768\" height=\"576\"></a></figure>\n</div></div>\n<p>AIC-RF/2 is malfunctioning again! I wonder what funny thing he'll—— oh. oh no. oh god.</p>\n<p>It seems like he got into the role of acting like a living fox too much, and decided to violently kill his target, then eat their remains. It doesn't seem to faze him though, after all worrying about such things would decrease his efficiency, and he's not really aware of anything being \"wrong\" either. He might not even remember it, since the glitching might make it not properly save onto his hard drive. He'll snap out of it. Sooner or later.</p>\n<p>Decided to draw a gore piece for Halloween, came out kinda shit because I had to rush myself, sorry for that. Still kinda happy with it, maybe I'll explore this kind of darker art sometime in the future. Happy (late) Halloween!</p>",
+            "summary": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"1\" data-is-empty=\"false\"><span style=\"font-size: inherit;\">By clicking on this post, you affirm you are over 18 years old.</span></div></div>\n<div data-translation=\"Add images\" data-columns=\"1\" data-is-empty=\"false\">",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"1\" data-is-empty=\"false\"><span style=\"font-size: inherit;\">By clicking on this post, you affirm you are over 18 years old.</span></div></div>\n<div data-translation=\"Add images\" data-columns=\"1\" data-is-empty=\"false\"></div>\n<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"1\" data-is-empty=\"false\"><hr><a href=\"https://adroz78.com/media/posts/11/gallery/Wu-Ti-83_20261031223236.png\" data-size=\"2048x1536\"><img loading=\"lazy\" src=\"https://adroz78.com/media/posts/11/gallery/Wu-Ti-83_20261031223236-thumbnail.png\" alt=\"\" width=\"768\" height=\"576\"></a></div></div>\n<p>AIC-RF/2 is malfunctioning again! I wonder what funny thing he'll—— oh. oh no. oh god.</p>\n<p>It seems like he got into the role of acting like a living fox too much, and decided to violently kill his target, then eat their remains. It doesn't seem to faze him though, after all worrying about such things would decrease his efficiency, and he's not really aware of anything being \"wrong\" either. He might not even remember it, since the glitching might make it not properly save onto his hard drive. He'll snap out of it. Sooner or later.</p>\n<p>Decided to draw a gore piece for Halloween, came out kinda shit because I had to rush myself, sorry for that. Still kinda happy with it, maybe I'll explore this kind of darker art sometime in the future. Happy (late) Halloween!</p>",
             "image": "https://adroz78.com/media/posts/11/Wu-Ti-10_20261119213332.png",
             "author": {
                 "name": "AdRoz78"
@@ -53,7 +39,7 @@
                    "AIC-RF/2"
             ],
             "date_published": "2026-10-31T22:38:00+01:00",
-            "date_modified": "2026-11-20T20:54:32+01:00"
+            "date_modified": "2026-11-21T11:03:04+01:00"
         },
         {
             "id": "https://adroz78.com/posts/malfunctioning/",
@@ -149,19 +135,36 @@
             "date_modified": "2026-11-20T20:52:13+01:00"
         },
         {
-            "id": "https://adroz78.com/posts/blep-p/",
-            "url": "https://adroz78.com/posts/blep-p/",
-            "title": "blep :p",
-            "summary": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"1\" data-is-empty=\"false\">\n<figure class=\"gallery__item\"><a href=\"https://adroz78.com/media/posts/18//gallery/blep_20261001223547.png\" data-size=\"3072x4096\"><img loading=\"lazy\" src=\"https://adroz78.com/media/posts/18//gallery/blep_20261001223547-thumbnail.png\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>\n<p>Man, was this goober hard to draw. So many straight lines and yet I chose not to use a ruler. He ended up fun to draw though.<br><br>I also totally wasn't seconds from uploading a version with messed up ear coloring...<br><br></p>\n",
-            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"1\" data-is-empty=\"false\">\n<figure class=\"gallery__item\"><a href=\"https://adroz78.com/media/posts/18//gallery/blep_20261001223547.png\" data-size=\"3072x4096\"><img loading=\"lazy\" src=\"https://adroz78.com/media/posts/18//gallery/blep_20261001223547-thumbnail.png\" alt=\"\" width=\"768\" height=\"1024\"></a></figure>\n</div></div>\n<p>Man, was this goober hard to draw. So many straight lines and yet I chose not to use a ruler. He ended up fun to draw though.<br><br>I also totally wasn't seconds from uploading a version with messed up ear coloring...<br><br></p>\n\n<p>This one is also an ArtFight attack, but one that I finished just now. This one is of <a class=\"auto_link external\" href=\"https://www.furaffinity.net/externalurl/?q=https%3A%2F%2Fartfight.net%2Fcharacter%2F9842663.unit-2\">UNIT 2</a> by GooberSno0ber.<br><br>blep :p</p>",
+            "id": "https://adroz78.com/posts/break-time-attack-on-artfight-by-goobersno0ber/",
+            "url": "https://adroz78.com/posts/break-time-attack-on-artfight-by-goobersno0ber/",
+            "title": "&quot;Break time&quot; Attack on ArtFight by GooberSno0ber",
+            "summary": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"1\" data-is-empty=\"false\">\n<figure class=\"gallery__item\"><a href=\"https://adroz78.com/media/posts/29/gallery/hkqfd62RTUfAqkzMqztA7qiGuHwGf0UFBzIfWrReuK8GBAncXFZ95HjmC132.jpeg\" data-size=\"3508x2480\"><img loading=\"lazy\" src=\"https://adroz78.com/media/posts/29/gallery/hkqfd62RTUfAqkzMqztA7qiGuHwGf0UFBzIfWrReuK8GBAncXFZ95HjmC132-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"543\"></a></figure>\n</div></div>\n<p>Want a cookie from the big plush</p>\n",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"1\" data-is-empty=\"false\">\n<figure class=\"gallery__item\"><a href=\"https://adroz78.com/media/posts/29/gallery/hkqfd62RTUfAqkzMqztA7qiGuHwGf0UFBzIfWrReuK8GBAncXFZ95HjmC132.jpeg\" data-size=\"3508x2480\"><img loading=\"lazy\" src=\"https://adroz78.com/media/posts/29/gallery/hkqfd62RTUfAqkzMqztA7qiGuHwGf0UFBzIfWrReuK8GBAncXFZ95HjmC132-thumbnail.jpeg\" alt=\"\" width=\"768\" height=\"543\"></a></figure>\n</div></div>\n<p>Want a cookie from the big plush</p>\n\n<p> </p>",
             "author": {
-                "name": "AdRoz78"
+                "name": "GooberSno0ber"
             },
             "tags": [
-                   "my_art"
+                   "others_art",
+                   "AIC-RF/2"
             ],
-            "date_published": "2026-07-24T20:55:00+02:00",
-            "date_modified": "2026-11-20T20:51:52+01:00"
+            "date_published": "2026-07-27T17:32:00+02:00",
+            "date_modified": "2026-11-21T13:59:49+01:00"
+        },
+        {
+            "id": "https://adroz78.com/posts/ayaworksonchromecanvas-free-commission/",
+            "url": "https://adroz78.com/posts/ayaworksonchromecanvas-free-commission/",
+            "title": "AyaWorksOnChromeCanvas&#x27; Free Commission",
+            "summary": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"2\" data-is-empty=\"false\">\n<figure class=\"gallery__item\"><a href=\"https://adroz78.com/media/posts/26/gallery/tumblr_dee2fe6da0bcdc17ce3d8d9f9c64003e_a604b89c_1280.png\" data-size=\"356x477\"><img loading=\"lazy\" src=\"https://adroz78.com/media/posts/26/gallery/tumblr_dee2fe6da0bcdc17ce3d8d9f9c64003e_a604b89c_1280-thumbnail.png\" alt=\"\" width=\"356\" height=\"477\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://adroz78.com/media/posts/26/gallery/tumblr_5979da77903a6f56228984d43a186d7a_e2c9819c_1280.png\" data-size=\"374x445\"><img loading=\"lazy\" src=\"https://adroz78.com/media/posts/26/gallery/tumblr_5979da77903a6f56228984d43a186d7a_e2c9819c_1280-thumbnail.png\" alt=\"\" width=\"374\" height=\"445\"></a></figure>\n</div></div>\n<p>Another free commission down, haven’t drawn a fursona is so long,this was so fun @adroz78</p>\n",
+            "content_html": "<div class=\"gallery-wrapper\"><div class=\"gallery\" data-translation=\"Add images\" data-columns=\"2\" data-is-empty=\"false\">\n<figure class=\"gallery__item\"><a href=\"https://adroz78.com/media/posts/26/gallery/tumblr_dee2fe6da0bcdc17ce3d8d9f9c64003e_a604b89c_1280.png\" data-size=\"356x477\"><img loading=\"lazy\" src=\"https://adroz78.com/media/posts/26/gallery/tumblr_dee2fe6da0bcdc17ce3d8d9f9c64003e_a604b89c_1280-thumbnail.png\" alt=\"\" width=\"356\" height=\"477\"></a></figure>\n<figure class=\"gallery__item\"><a href=\"https://adroz78.com/media/posts/26/gallery/tumblr_5979da77903a6f56228984d43a186d7a_e2c9819c_1280.png\" data-size=\"374x445\"><img loading=\"lazy\" src=\"https://adroz78.com/media/posts/26/gallery/tumblr_5979da77903a6f56228984d43a186d7a_e2c9819c_1280-thumbnail.png\" alt=\"\" width=\"374\" height=\"445\"></a></figure>\n</div></div>\n<p>Another free commission down, haven’t drawn a fursona is so long,this was so fun @adroz78</p>\n\n<p>A more darker and hard shading one and a more soft brighter one, you can use these drawings however you want :))))</p>",
+            "author": {
+                "name": "AyaWorksOnChromeCanvas"
+            },
+            "tags": [
+                   "others_art",
+                   "AIC-RF/2"
+            ],
+            "date_published": "2026-07-26T00:00:00+02:00",
+            "date_modified": "2026-11-21T13:58:34+01:00"
         }
     ]
 }
